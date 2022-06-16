@@ -1,0 +1,14 @@
+.box {
+    border: none;
+    border-radius: 35%;
+    box-shadow: 0px 10px 10px #889;
+    height: 5rem;
+    width: 5rem;
+    padding-left: -1px;
+    line-height: 5rem;
+    margin: 0.5rem;
+}
+
+.box:hover {
+    box-shadow: 0px 0px 15px #888;
+}
